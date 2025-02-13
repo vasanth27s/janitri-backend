@@ -18,7 +18,7 @@ This project is a Node.js application that utilizes MongoDB and Mongoose to mana
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/vasanth/JanitriAssignment.git
+    git clone https://github.com/vasanth27s/janitri-backend.git
     ```
 
 2. **Navigate into the project folder**:
