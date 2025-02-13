@@ -1,6 +1,8 @@
 require('dotenv').config();
 const express = require('express');
-const connectDB = require('./Config/db');
+const path = require("path");
+
+const connectDB = require(path.join(__dirname, "Config/db"));
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
